@@ -12,6 +12,7 @@ class WookieeRenderer(renderers.JSONRenderer):
         "c": "oa",
         "d": "wa",
         "e": "wo",
+        "é": "wo",
         "f": "ww",
         "g": "rr",
         "h": "ac",
